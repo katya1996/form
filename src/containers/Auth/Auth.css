@@ -1,0 +1,41 @@
+body{
+    background-color: grey;
+}
+
+.Auth{
+    width: 300px;
+    height: 380px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15%  auto;
+    vertical-align: middle;
+}
+
+.Auth h1{
+    font-size: 13px;
+    color: grey;
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+button{
+    height: 30px;
+    border: none;
+    background-color: steelblue;
+    color: white;
+}
+
+::-webkit-input-placeholder { font-size: 12px; }
+::-moz-placeholder          { font-size: 12px; } /* Firefox 19+ */
+:-moz-placeholder           { font-size: 12px; } /* Firefox 18- */
+:-ms-input-placeholder      { font-size: 12px; }

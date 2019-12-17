@@ -1,0 +1,14 @@
+.Input{
+    margin-bottom: 15px;
+}
+
+.Input input{
+     width: 240px;
+     height: 20px;
+}
+
+.Input span{
+    color: #f01f30;
+    font-size: 12px;
+    font-weight: bold;
+}
